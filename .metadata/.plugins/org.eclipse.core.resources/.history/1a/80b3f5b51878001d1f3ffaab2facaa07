@@ -1,0 +1,10 @@
+
+public class App {
+
+	public static void main(String[] args) {
+
+		AsteriskLogger ex1 = new AsteriskLogger();
+		System.out.print(ex1.Log("Waddup people"));
+	}
+
+}
